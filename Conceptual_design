@@ -1,0 +1,79 @@
+# Conceptual Design: Objective, Framework, Questions, Concepts
+
+This is the *what, why, and how much* of a political science research design. Work through it with the person in this order, but expect to loop back.
+
+## 1. Project context and research objective
+
+Every research project sits inside a **project context** — the reason anyone (an advisor, a funder, a policy debate, a scholarly controversy, the researcher's own trajectory) cares about it. The **research objective** is the external goal: the contribution the finished dissertation is meant to make *outside itself*. It is not the same as the knowledge the research produces (that's the internal goal, captured later by the research questions).
+
+Distinguish two broad types, and help the person figure out which describes their project (many PhD projects are a blend, but the emphasis matters):
+
+**Theory-oriented research** aims to contribute to a body of theory — testing a hypothesis drawn from a theoretical debate (e.g., does economic interdependence reduce interstate conflict?), building new theory in an under-theorized area (grounded-theory style), or refining/extending an existing theoretical framework (e.g., adapting principal-agent theory to a new class of delegation problems). The audience is the scholarly community; the payoff is theoretical.
+
+**Practice/policy-oriented research** aims to contribute to solving or illuminating a real-world problem for some stakeholder — a government agency, an international organization, a social movement, an electoral commission. Use the **intervention cycle** as a heuristic for locating exactly where the contribution sits, because stakeholders (and inexperienced researchers) very often misidentify this and jump straight to "design" or "evaluation" when the real gap is upstream:
+
+1. **Problem analysis / agenda-setting** — establishing that a problem exists, what it is, and whose problem it is (e.g., documenting that electoral trust has declined and among which groups).
+2. **Diagnosis** — identifying causes (e.g., why has trust declined — media environment, procedural failures, elite polarization?).
+3. **Design** — proposing an intervention (e.g., designing a reform to a complaints procedure).
+4. **Intervention/implementation** — the change itself (not usually the researcher's job; the dissertation studies it, doesn't execute it).
+5. **Evaluation** — assessing whether an implemented change achieved its goal.
+
+Ask directly: *of these five stages, which one does the research actually sit in?* A very common error is to assume the project must be "design" or "evaluation" oriented because that feels more actionable, when the real contribution is a still-missing diagnosis or even problem analysis. Push back gently but firmly on this impulse.
+
+**For practice-oriented projects**, always get explicit about:
+- Who is the commissioning party or intended audience, and what do *they* think they want? (Clients/committees often prescribe a method — "just send a survey" — before the problem itself is clear. Don't let the person accept the client's framing of both problem and method uncritically.)
+- What is the researcher's role, and what is not the researcher's role? Research produces valid knowledge; it is not itself the intervention, and the researcher is not the policymaker. Make sure the objective reflects only what research realistically delivers (recommendations, diagnosis, evaluation) not a promise to fix the underlying problem.
+
+**Quality bar for a research objective statement**: it should name (a) what knowledge will be produced, (b) for/about whom or what, (c) in service of what external goal, and (d) be scoped to something a single dissertation can actually deliver. A good test: could the person state it in one or two sentences without hedging or piling on "and also..."? If not, it's still too broad.
+
+## 2. Research framework
+
+Between the objective and the research questions sits the **research framework**: a schematic representation of the logical steps the research must take to get from raw material to an answer that serves the objective. Many researchers try to jump straight from objective to questions and get stuck — the framework is the missing intermediate step.
+
+The framework's core logic is **confrontation**: at each stage, some set of observations, theories, or prior findings is confronted with another, and a conclusion is drawn. A typical structure:
+- **(a) Research perspective**: confronting different theoretical insights (from literature, expert interviews) with each other to arrive at the theoretical lens — often a conceptual model — that will be used.
+- **(b) Confrontation with the research object**: applying that lens/perspective to the actual empirical cases or material.
+- **(c) Conclusions**: what follows from (a) confronted with (b), relative to the objective.
+- **(d) Further confrontation** (if there are multiple research objects/cases): comparing the results from (c) across cases — this is where most comparative-politics designs actually do their theoretical work.
+
+Encourage the person to literally sketch this as boxes and arrows before writing prose. A framework that can't be drawn in one diagram usually means the logic isn't settled yet.
+
+**Why it's worth the effort** (use these to motivate a skeptical student):
+- It gives supervisors/committees a compact, checkable picture of the whole project before fieldwork starts, catching misunderstandings early.
+- It has strong communicative value — everyone (advisor, committee, co-authors) can point at the same diagram.
+- It disciplines the literature review: it tells the researcher which theories are relevant and from which angle, preventing the extremely common failure mode of "reading everything" without direction.
+- It's the direct source of the research questions (next section) and often maps onto dissertation chapter structure.
+
+## 3. Research questions
+
+A research question set needs: **one central question**, optionally unraveled into **sub-questions** (at minimum two per central question if unraveled at all — a single sub-question is either redundant with the central question or an unjustified narrowing/broadening of it).
+
+**Form requirements**: research questions must be answerable through the planned research (not rhetorical, not requiring information no design step will produce), unambiguous, and free of unstated normative assumptions. **Function requirement**: the set of questions, taken together, must be *steering* — sufficient, if answered, to achieve the research objective. A frequent failure in draft proposals is a list of questions that are individually interesting but collectively don't add up to the stated objective.
+
+Three complementary techniques for generating a well-formed question set — use whichever fits the framework already built, or combine them:
+
+**a. Subdividing the research framework.** Turn each box/stage of the framework into its own central (or sub-) question. If the framework has a theoretical-perspective stage and an empirical-application stage, that alone often yields two central questions (e.g., "What does the literature suggest are the mechanisms linking X to Y?" and "To what extent are these mechanisms present in cases A and B?").
+
+**b. Corroborative types of knowledge.** Different research objectives call for different *kinds* of knowledge, and naming the kind clarifies what a question is actually asking for:
+- *Descriptive* knowledge — what is the case (e.g., how has campaign finance regulation changed across these states?)
+- *Explanatory* knowledge — why is it the case / what causes it
+- *Predictive* knowledge — what will happen if conditions persist or change
+- *Evaluative* knowledge — how good/bad is a situation relative to criteria (common in policy evaluation and problem-analysis stages)
+- *Prescriptive/design* knowledge — what should be done (common in stage-3 intervention-cycle projects)
+Ask which of these the objective actually calls for — students often default to explanatory framing ("why does X happen") when the objective actually needs evaluative or prescriptive knowledge, or vice versa.
+
+**c. Unraveling key concepts.** Political science concepts are often essentially contested (democracy, legitimacy, populism, state capacity, securitization...). Take each core concept named in the objective/framework and break it into dimensions and sub-aspects (a tree diagram is a useful tool here), then ask which dimensions the research actually needs to address. This both sharpens the questions and feeds directly into concept definition/operationalization (next section).
+
+Throughout, keep checking: does this question set, once drafted, reveal that the objective or framework needs adjusting? That's expected — loop back rather than forcing the questions to fit a framework that no longer makes sense.
+
+## 4. Defining and operationalizing key concepts
+
+Every core concept in the research questions needs two things before data collection can start:
+
+**Delineation (a stipulative definition).** State precisely what the concept refers to for *this* project — its domain (what phenomena, actors, time, and place it covers) and its assertion (what characteristic is being claimed of that domain). Precisely specifying place and time is not a formality — "recent" or "modern" democracies is not a bounded domain; naming years, regions, or a specific institutional population is. For contested concepts, be upfront that the definition is a choice among live scholarly alternatives, and briefly justify the choice rather than presenting it as uncontroversial.
+
+**Operationalization.** Translate the abstract concept into **indicators** — observable phenomena that stand in for something not directly observable — plus the **instruments** (survey items, coding scheme, interview protocol, document-analysis criteria) and **instructions** for applying them consistently. In quantitative designs this usually means closed-ended measurement; in qualitative designs it means a coding/observation scheme applied consistently across cases. Two common reasons a concept needs operationalizing: (1) its application depends on contested norms/standards (e.g., what counts as "unemployed" depends on a policy-defined criterion), and (2) it's simply too abstract to observe directly (e.g., "institutional trust," "state capacity") and needs to be unpacked into dimensions, each with its own indicators.
+
+Remind the person: no operationalization is perfectly valid — there is always a trade-off between validity (does the indicator really capture the concept?) and feasibility (can it actually be measured/observed given time, access, and resources?). A dissertation committee will respect an explicit, defended trade-off far more than an operationalization that pretends to be unproblematic.
+
+Finally, check that the operationalized concepts still **link back to the research objective** — it's easy to operationalize a concept in a way that's measurable but no longer answers the question the objective actually needs answered. This is the last loop-back point before moving to technical design (research strategy, material, planning).
