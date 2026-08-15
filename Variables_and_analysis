@@ -1,0 +1,56 @@
+# Variables, Hypotheses, Data Analysis, and Reporting
+
+This file covers three things the earlier references touch on but don't fully spell out: (1) the generic seven-step shape of a research project that a proposal or methods chapter typically has to demonstrate, (2) how to name and classify variables and write hypotheses precisely, and (3) baseline expectations for the data-analysis and reporting stages — useful for making sure the *design* document promises an analysis plan that's actually specific enough to execute.
+
+## The seven-step shape of a research project
+
+Whatever the paradigm or strategy, most political science research projects (and most proposals/methods chapters describing them) move through the same seven steps. This maps onto — but is a coarser, more execution-oriented cut than — the conceptual/technical design elements in `02-conceptual-design.md` through `08-conceptual-models.md`. Use it as a sanity-check outline for a methods chapter or grant proposal, especially when the person needs something a committee will recognize as complete:
+
+1. **Identify the research problem** — why this topic deserves effort, what questions need answering, what (if any) hypothesis is being proposed.
+2. **Establish research objectives** — what information the study must produce to answer those questions and support a credible final report. Note objectives may stay provisional until the literature review is further along.
+3. **Select the research strategy** — the most credible and cost-effective way to gather the needed information (see `03-research-strategies.md` and `04-qualitative-approaches.md`).
+4. **Prepare a research plan** — the concrete steps for gathering material from the chosen sources under the chosen strategy (see `05-research-material.md` and `07-planning.md`).
+5. **Gather the data** — the fieldwork/execution step; the design's job is to specify what will be monitored to make sure the right material is actually being collected.
+6. **Analyze and interpret the data** — establish what the data mean relative to the original problem and objectives (see below).
+7. **Prepare and present the findings** — write and communicate the results, in a style and structure the discipline recognizes (see below).
+
+A proposal that can't yet say something concrete about steps 5-7 isn't necessarily premature, but the person should know that's the gap a committee is likely to probe.
+
+## Literature review as an early, structural task
+
+Treat the literature review as more than background reading — it's a structural design activity. It does at least three jobs: it helps define and bound the study problem (a common failure mode is not knowing the field well enough yet to know how big or small the project actually is); it may reveal that the question has already been answered, saving significant wasted effort; and it supplies previously tested hypotheses and concepts the current project can build on, adapt, or contest — very little in a mature field is genuinely unprecedented. Push back gently on literature reviews built solely from a quick web search; credible reviews draw on published books, peer-reviewed journals, government documents, and (per `05-research-material.md`) other primary source types, not just what's easiest to find online. Exploratory techniques — key-informant interviews with people knowledgeable about the problem, or a small pilot test of a data-gathering instrument — can also help surface the concepts and structure of a still-fuzzy problem before the literature review is complete; recommend these when a person is stuck defining the problem itself.
+
+## Naming and classifying variables
+
+Every empirically-oriented hypothesis or research question implies variables — characteristics that can take on two or more values. Getting the classification right up front prevents downstream confusion about what statistical or comparative test is even appropriate. Common types, with political science examples:
+
+- **Dichotomous** — exactly two categories (e.g., incumbent won / incumbent lost; gender coded as two categories in a given dataset).
+- **Multichotomous** — more than two, mutually exclusive categories chosen from a list (e.g., party affiliation among several recognized parties; type of electoral system). Distinguish this from a "check all that apply" list, where each item is really its own dichotomous (checked/not-checked) variable, not one multichotomous variable.
+- **Continuous (measurement)** — can take essentially any value within a range (e.g., GDP per capita, age in years, a policy index score).
+- **Discrete (categorical)** — restricted to a limited, countable set of values with a natural minimum unit (e.g., number of seats a party holds).
+- **Independent** — the variable treated as the (candidate) explanation/cause. In political science it's standard practice to say a variable "explains" rather than "causes" a change in the dependent variable, since causality is genuinely hard to establish with observational political data — encourage this more careful language in draft hypotheses.
+- **Dependent** — the variable the study is trying to explain (e.g., turnout, policy adoption, conflict onset).
+- **Control** — held constant or statistically accounted for, to test whether an apparent relationship between the independent and dependent variable actually depends on a third factor (e.g., controlling for income and education when testing whether gender explains party affiliation).
+
+When reviewing a draft hypothesis or research question, check explicitly which named concept is playing which role (independent, dependent, control) and what type each variable is — a surprising number of draft hypotheses turn out, on inspection, to have an ambiguous or shifting dependent variable.
+
+## Planning the data-analysis approach
+
+A credible research plan states, in advance, roughly how the data will be analyzed once gathered — this is a design commitment, not something to defer entirely to the execution stage.
+
+**For quantitative data**, the standard progression is:
+- *Univariate* analysis first — frequency distributions and summary statistics (central tendency, variation) for one variable at a time.
+- *Bivariate* analysis next — cross-tabulating two variables at a time (e.g., a simple crosstab of gender by voting turnout), examining cell counts and row/column/total percentages, and applying the appropriate statistical test for the variables' measurement level (nominal, ordinal, interval).
+- *Multivariate* analysis as needed — correlation, regression, or other techniques once the bivariate picture is established, to test the actual hypotheses against more than two variables at once.
+
+Encourage the person to state which of these levels their design actually needs, rather than gesturing vaguely at "statistical analysis" — a purely descriptive research objective may only need univariate/bivariate work, while an explanatory, hypothesis-testing objective usually implies multivariate analysis, which has its own data and sample-size requirements worth flagging early.
+
+**For qualitative data**, see `04-qualitative-approaches.md`'s three-step process (categorizing → analysis → interpretation) — the design should specify what categorization scheme or coding approach will be used and how, not just that "the interviews will be analyzed thematically."
+
+## Reporting and writing style
+
+A design document should anticipate the final report's structure and audience, not just the data collection. A few durable points worth passing on to a PhD student:
+
+- There is no single universally "correct" writing style across political science and its neighboring fields (public administration, sociology, economics) — different journals, presses, and committees have real, sometimes incompatible conventions (citation style, structure, formality). The one constant standard worth aiming for regardless of venue is writing that is **clear, concise, and readable**.
+- The report's outline typically mirrors the research plan built in step 4 above — the problem statement, objectives, literature review, and strategy/methods rationale can often be substantially drafted before data collection even finishes, since they don't depend on the findings.
+- Following the target venue's expected format (citation style, section structure, length conventions) measurably increases how quickly and favorably readers — especially time-pressed committee members or journal reviewers — receive the work, which matters most when the findings themselves are unexpected, weak, or null. Encourage the person to identify their target venue's format expectations early rather than retrofitting the whole document at the end.
