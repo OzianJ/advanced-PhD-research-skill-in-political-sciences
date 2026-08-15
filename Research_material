@@ -1,0 +1,60 @@
+# Research Material: Sources and Accessing Them
+
+Once a strategy is chosen, the person needs a concrete plan for *what* material will answer each research question and *where/how* it will be obtained. Vague sourcing ("I'll interview relevant stakeholders" / "I'll use survey data") is one of the most common reasons proposals get sent back — press for specificity here.
+
+## Types of sources in political science research
+
+- **Persons.** As respondents (their own views/experiences — e.g., voters, party members), as informants (reporting on something else they've observed — e.g., a staffer describing internal coalition negotiations), or as experts (specialized knowledge — e.g., a former ambassador, an election-law scholar). The same person can serve different roles in different questions; be explicit about which role is being invoked, since it changes what kind of question you can validly ask them.
+- **Documents and archives.** Legislative records, treaties, court opinions, party manifestos, government reports, leaked cables, meeting minutes, personal papers. Distinguish primary documents (produced at the time, by the actors involved) from secondary accounts (later analysis or reporting).
+- **Media.** News coverage, social media, broadcast archives — useful both as a data source in its own right (e.g., framing analysis) and as a way of reconstructing timelines or public discourse.
+- **Existing datasets.** Data already gathered by others for other purposes — cross-national indicators (V-Dem, Polity, World Bank), survey archives (World Values Survey, national election studies), roll-call/legislative databases, conflict event datasets (ACLED, UCDP). Using these is a form of desk research even if the underlying strategy resembles a survey.
+- **Direct observation / "reality" itself.** Fieldwork observation of meetings, protests, campaign events, bureaucratic processes — generating material through the researcher's own senses rather than through an intermediary source.
+
+## Accessing sources
+
+For each source type, name the actual **method of accessing it**, not just the source category:
+- Persons → structured/semi-structured/unstructured interviews, surveys/questionnaires (closed vs. open questions), focus groups.
+- Documents/media → content analysis (quantitative coding or qualitative/interpretive), discourse analysis, archival research.
+- Existing datasets → secondary statistical analysis.
+- Direct observation → structured observation (pre-specified categories) vs. unstructured/participant observation.
+
+For literature and document searches specifically, the useful complementary tactics are: searching by keyword in relevant databases, following citation trails forward and backward (**snowballing** — checking a key work's bibliography, then the bibliographies of those sources, and so on), consulting disciplinary handbooks/review articles for an initial map of the field, and asking experts what the 2-3 works everyone in the area cites.
+
+## Feasibility questions to press on
+
+This is where over-ambitious dissertation designs actually get caught, so don't skip it:
+
+- **Access**: Are the archives actually open (embargoes, classification, language of the material)? Will the relevant elites actually grant interviews to a PhD student, and is there a realistic recruitment strategy (snowball sampling through existing contacts, institutional affiliation, professional networks)?
+- **Coverage**: Does an existing dataset actually cover the cases, time period, and variables the design needs — or does it look adequate at a glance but leave gaps in exactly the cases most central to the argument?
+- **Volume vs. time**: Is the number of interviews, documents, or cases proposed realistic for the dissertation timeline (see planning reference)? A common failure is proposing "50 elite interviews across 6 countries" without a credible recruitment and travel plan.
+- **Purpose mismatch**: If using existing/secondary material, was it collected for a purpose close enough to this project's concepts that it can validly answer the research questions — or will the researcher be forced to use a proxy that only loosely operationalizes what's actually needed? Flag this explicitly rather than letting it surface only after data collection starts.
+- **Bias in the source itself**: Archives, media coverage, and even elite interview access are rarely neutral — official archives preserve some perspectives and not others, media coverage is selective, elites willing to talk to a researcher may not be representative of the population being studied. Ask the person to name this bias explicitly and consider how it will be addressed (triangulation across source types, being upfront about the limitation) rather than treated as invisible.
+
+Encourage triangulation — combining source types (e.g., elite interviews + archival documents + secondary datasets) — both to compensate for the specific weaknesses of any one source and because committees find single-source designs less credible for causal or interpretive claims.
+
+## Primary vs. secondary data, and a fuller source inventory
+
+It's worth having the person explicitly label every planned source as **primary** (gathered firsthand by the researcher for this project — a questionnaire the researcher fields, interviews the researcher conducts, an experiment the researcher runs) or **secondary** (already collected by someone else, for another purpose — government statistics, existing datasets, agency records, prior published research). Neither is inherently better, but secondary material always carries the residue of whatever purpose it was originally collected for, and a design should say explicitly how well that original purpose lines up with this project's concepts (see the "purpose mismatch" feasibility question above).
+
+A more granular inventory of source types, organized by whether they lean toward the positivist/quantitative or postpositivist/qualitative tradition (see `01-paradigms-and-approaches.md`), is useful as a checklist when a design's sourcing still feels vague:
+
+**Primary, quantitative-leaning sources**
+- Field surveys: structured questionnaires, attitude surveys, lifestyle/opinion surveys
+- Field studies: structured observation studies, personal interviews, focus-group interviews, video/audio recording of behavior
+- Experiments: laboratory experiments, field experiments
+
+**Secondary, quantitative-leaning sources**
+- Organizational internal reports; invoice/accounts records; registered-voter lists; vote records; production/service records; HR records — the kind of administrative data political scientists often repurpose for quantitative secondary analysis
+
+**Existing documents (often used in qualitative/desk research)**
+- Books, periodicals, published reports, films, unpublished literature
+- Local, state, and federal government documents
+- Professional association papers and reports
+- University and consultancy research reports
+- Meeting minutes and commercial databases
+
+**Internal records and external qualitative sources**
+- Internal: email, memoranda, policy papers, internal reports
+- External: interviews, life histories, case studies, observation and participant observation
+
+This isn't a different taxonomy from the one above — it's a more exhaustive checklist for the same exercise. Use whichever framing helps the person actually name concrete, accessible sources rather than leaving sourcing at the level of a category label.
