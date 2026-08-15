@@ -1,0 +1,33 @@
+# Research Planning
+
+Planning is the *when* and *how much* of the project: which activities happen in what order, over what time period, and how much time/effort each realistically requires. For a PhD project this typically needs to be produced as a deliverable in its own right (a committee, funder, or IRB will ask for a timeline), so treat it as a real design task, not an afterthought tacked onto the end of a proposal.
+
+## Two functions of a plan — not just a control mechanism
+
+Treat the plan as serving two purposes, not one:
+
+1. **Monitoring function**: a standard against which progress can be checked, so that if something isn't happening on schedule, the researcher (and advisor) notice and can respond — not in a punitive "behind schedule" sense, but in a formative sense of catching problems early enough to adjust.
+2. **Design function**: building the plan is itself a moment to catch problems with the *conceptual or technical design*, not just the schedule. Laying out all activities in sequence for the first time often reveals bottlenecks (e.g., "the comparative case study requires archive access in country B that has a 6-month waiting list") that force a revision of the technical design — or even the research questions — before the clock starts. This is a case of the general iterative-parallel principle: planning isn't just what happens after design is "done," it's part of finishing the design.
+
+## Building an activity plan
+
+List the actual activities required to move from current state to a finished dissertation/chapter, at a level of detail useful for scheduling (not so granular it becomes unmanageable, not so coarse it hides real bottlenecks). Typical categories for a political science dissertation:
+- Literature review and theoretical framework development
+- IRB/ethics approval (often has its own multi-week-to-month lead time — flag this early, it's a common scheduling blind spot)
+- Case/site selection and access negotiation (e.g., securing archive permissions, arranging interview access, pre-registering a survey experiment)
+- Fieldwork or data collection (interviews, archival visits, survey fielding, experiment implementation)
+- Data processing, coding, and analysis
+- Writing (draft chapters, revision cycles with the advisor/committee)
+- Defense preparation
+
+For activities that can run in parallel or benefit from being combined rather than strictly sequenced, say so explicitly — e.g., processing and analyzing each interview immediately after conducting it (rather than batching all interviews, then all analysis) both keeps details fresh and lets early interviews inform the interview guide for later ones. This kind of synergy is a legitimate reason to deviate from a strictly linear activity order, and it's worth calling out to students who default to fully serial planning.
+
+## Building a realistic time schedule
+
+Once activities are listed, assign realistic durations and dependencies (what has to finish before what can start). Concrete practices to push:
+- **Build in buffer for the iterative loop.** Because design gets revisited as fieldwork/analysis proceeds, a schedule with zero slack is not credible and will be the first thing to break.
+- **Front-load anything with an external lead time you don't control** — IRB approval, archive access requests, elite interview recruitment, survey fielding vendor timelines — since these are the most common causes of a stalled project, and they're exactly the things a first-draft schedule tends to underestimate.
+- **Sanity-check volume against duration.** If the plan calls for 40 elite interviews in 6 weeks across 3 countries, do the arithmetic with the person out loud (travel time, response/scheduling lag, realistic weekly interview capacity) rather than accepting the total at face value.
+- **Tie the schedule back to chapters.** For most dissertations the research framework built earlier (see `01-conceptual-design.md`) maps fairly directly onto the eventual chapter structure — use this to make the schedule concrete ("chapter 3 = comparative case analysis of cases A and B, requires archive access secured by month X") rather than abstract ("data collection: months 4-9").
+
+The output the person actually needs is usually a simple table or Gantt-style chart: activity, dependencies, estimated duration, target dates. Don't over-engineer the format — the content (realistic activities, honest durations, explicit dependencies) is what a committee or funder is actually evaluating.
