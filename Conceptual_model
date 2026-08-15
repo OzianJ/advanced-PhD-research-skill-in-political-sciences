@@ -1,0 +1,35 @@
+# Conceptual (Theoretical/Causal) Models
+
+A conceptual model is the schematic theoretical framework of a project: a set of core concepts (variables) plus the assumed relationships between them. In political science this is what underlies almost every causal argument, whether the eventual design is quantitative (a regression specification), qualitative (a process-tracing causal chain), or formal-theoretic (a game-theoretic model's comparative statics). Building it explicitly — even for qualitative dissertations that will never run a regression — disciplines the argument and is usually expected in a proposal or theory chapter.
+
+## Building blocks
+
+**Core concepts must be variables.** A concept only belongs in a conceptual model if it can take on different values/modalities — "regime type" is a variable (democracy, hybrid, autocracy); "the state" by itself is not, but "state capacity" is. Two housekeeping rules worth enforcing when reviewing a draft model: (1) exclude constants — anything that doesn't vary within the scope of the study shouldn't appear as a boxed variable; (2) for every variable, precisely and exhaustively define which modalities or gradations are actually included in the study (e.g., "regime type" needs its typology specified, not left implicit).
+
+Variable types matter for what kind of relationship can be claimed:
+- **Nominal** (unordered categories, e.g., electoral system family: majoritarian/PR/mixed) — relationships involving a nominal variable can't be described as simply "positive" or "negative"; instead specify which modality of one variable is associated with which modality of the other.
+- **Ordinal** (ranked, e.g., level of press freedom: low/medium/high) and **interval** (numeric distance meaningful, e.g., GDP per capita, years since transition) — these support directional (positive/negative) and strength claims.
+
+**Relationships are causal claims**, expressed as "X causes/leads to/influences Y." Two properties to make explicit for every arrow in the model:
+- **Direction**: positive (high X co-occurs with high Y) or negative (high X co-occurs with low Y) — note this is a purely descriptive direction, carrying no normative connotation.
+- **Strength**: does a given change in X produce a proportionally large or small change in Y?
+
+## Common structures worth naming explicitly
+
+- **Direct effect**: X → Y.
+- **Indirect/mediated effect**: X → M → Y, where M (a mediator) transmits the effect of X onto Y. The overall direction of an indirect chain follows a sign-multiplication rule: multiply the signs of each leg (positive × positive = positive, negative × negative = positive, one of each = negative). This matters in political science whenever a mechanism is proposed (e.g., X = economic sanctions → M = elite defection → Y = regime change): being explicit about the mediator forces the researcher to actually specify the mechanism rather than leaving it as a black box between X and Y.
+- **Interaction/moderating effect**: the effect of X on Y differs depending on the value of a third variable Z (Z doesn't cause X or Y itself — it changes the strength or direction of the X→Y relationship). Common in political science (e.g., "economic grievance increases protest participation, but more strongly where organizational infrastructure — Z — is present"). When a moderator is proposed, push the person to specify what a test of it actually requires: separate estimates of the X→Y effect within each level/subgroup of Z, and then an explicit comparison of those estimates (in quantitative designs, a formal interaction test; in qualitative/comparative designs, deliberately selected cases that vary on Z while holding X constant, or vice versa).
+
+## Two uses of a conceptual model
+
+**Testing.** The model is derived from existing theory/literature and then checked against empirical material for whether it holds up (the hypothetico-deductive approach common across social, policy, and management sciences). In quantitative designs this is statistical hypothesis testing; in qualitative/comparative designs it leans more on the quality of evidence and argument, on reliability/validity of the research material, and on triangulation across methods and sources rather than a p-value.
+
+**Exploration.** The model starts more generic/abstract (broad, loosely specified concepts) and the research project's job is to refine it — make the concepts and relationships more precise and concrete, informed by close engagement with the material. This is the natural fit for grounded-theory-style or early-stage theory-building dissertations, where forcing a fully specified, testable model from the outset would be premature.
+
+## Practical guidance for building one with a person
+
+1. Start from the core concepts already identified in the research questions (see `01-conceptual-design.md`'s "unraveling key concepts" step) — don't invent new ones from scratch.
+2. Draw boxes and one-directional arrows; keep the layout as uncrossed as possible for readability, especially as the model grows.
+3. For every arrow, make the person state the expected direction and (if relevant) strength, and whether it's a direct, mediated, or moderated relationship — vague arrows ("X relates to Y somehow") are not yet a usable model.
+4. Deliberately decide what's *excluded* and say so — a conceptual model is as much about disciplined exclusion (given the project's scope and resources) as inclusion. A model that tries to include every plausible confound stops being useful as a guide to the research design.
+5. Check the model against the research objective and questions: does testing or exploring this specific model actually deliver the knowledge the objective requires? If not, loop back — this is one of the most common late-stage triggers for revising the research questions themselves.
